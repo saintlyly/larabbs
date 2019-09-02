@@ -1,0 +1,20 @@
+ DONE  Compiled successfully in 8501ms14:28:14
+
+                                                                                              Asset      Size   Chunks             Chunk Names
+                                                                                       /css/app.css   244 KiB  /js/app  [emitted]  /js/app
+                                                                                         /js/app.js  1.38 MiB  /js/app  [emitted]  /js/app
+   fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot?14c590d124662eb50efa4c00f027b79c   127 KiB           [emitted]  
+   fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg?bfa9c38bd6081dafe7278dedc4aad1d9   675 KiB           [emitted]  
+   fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf?5e8aa9ea0ebcd2218178f554cdd8e6b0   126 KiB           [emitted]  
+ fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2?3e1b2a654a784ceb385157140b4ccd71  72.8 KiB           [emitted]  
+  fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff?df02c782834b113d605d8329368737b4  85.5 KiB           [emitted]  
+  fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot?aa66d0e0e38c75666e98db33abae955e  33.6 KiB           [emitted]  
+  fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg?95f13e0be408d117bd3d9b366084a3ef   141 KiB           [emitted]  
+  fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf?285a9d2a28886ad64c4e45cbd733cf7c  33.3 KiB           [emitted]  
+fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2?ac21cac3f22cc9642f5af32e0c750797  13.3 KiB           [emitted]  
+ fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff?5623624dd1b017c66c29d1ac69cdcfa3  16.4 KiB           [emitted]  
+    fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot?42e1fbd2cf655a0b44a2dfae9ca2f8c1   188 KiB           [emitted]  
+    fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg?6ed5e3bc9018d2a03e2f1fadbf8a0a4a   820 KiB           [emitted]  
+    fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf?896e20e26ad07dc63c9526ed814117e9   187 KiB           [emitted]  
+  fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2?d6d8d5da9214dc7d46b297672a602d55  73.6 KiB           [emitted]  
+   fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff?3ded831d708bf90b2da86756551b5c1c  95.7 KiB           [emitted]  
